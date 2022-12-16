@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tarun437-ind
 - 👀 I’m Looking for internships for data anlayst/scientist
-- 🌱 I’m currently pursuing MS in applied Data science
-- 💞️ .
+- 🌱 I’m currently pursuing MS in applied Data science at clarkson university,NY 
+- 💞️ I am currently doing research under college department 
 - 📫 My email : Tarunchamp14@gmail.com
 
 <!---
